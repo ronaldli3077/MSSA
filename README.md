@@ -1,4 +1,4 @@
-# All code produced during the Microsoft Software and Systems Academy (MSSA) - PCAD16 track.
+# All code produced during the Microsoft Software and Systems Academy (MSSA)
 
 ## About MSSA
 The Microsoft Software and Systems Academy (MSSA) is a 17-week technical training program for transitioning service members and veterans, designed to prepare participants for careers in the technology industry.
@@ -30,5 +30,8 @@ Week2/
   Day1/
     Q1
 
-## Update
--I Will update my learning code during my time for this program. 
+
+## Course Details
+- Course Start: January 13th, 2025
+- Course End: May 2025
+- Track: Cloud Application Development (PCAD16)
