@@ -13,20 +13,20 @@ This repository showcases my progress through the Cloud Application Development 
 ## Repository Structure
 The repository is organized by weeks and days:
 
-- `weekX/dayY/wDXXCX`
-  - `weekX`: The week of the course (e.g., `Week1`, `Week2`, etc.).
+- `WeekX/dayY/QX`
+  - `WeekX`: The week of the course (e.g., `Week1`, `Week2`, etc.).
   - `DayX`: The specific day of the week (e.g., `Day1`, `Day2`, etc.).
   - `QX`: The code file(s) produced on that specific day. Each code file is numbered sequentially (e.g., `Q1`, `Q2`).
 
 ## Example
 ```plaintext
-week1/
+Week1/
   Day1/
     Q1
     Q2
   Day2/
     Q1
-week2/
+Week2/
   Day1/
     Q1
 
