@@ -30,6 +30,5 @@ Week2/
   Day1/
     Q1
 
-
 ## Update
 -I Will update my learning code during my time for this program. 
