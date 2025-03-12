@@ -11,7 +11,7 @@ This repository showcases my progress through the Cloud Application Development 
 - Track: Cloud Application Development (PCAD16)
 
 ## Update
-- I will update my code during my time in the Academy， fun to code ! 
+- I will update my projects during the time in the Academy. Looking forward it ! 
 
 ## Repository Structure
 The repository is organized by weeks and days:
