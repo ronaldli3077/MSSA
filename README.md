@@ -1,4 +1,4 @@
-# All code produced during the Microsoft Software and Systems Academy (MSSA)
+# Microsoft Software and Systems Academy (MSSA)
 
 ## About MSSA
 The Microsoft Software and Systems Academy (MSSA) is a 17-week technical training program for transitioning service members and veterans, designed to prepare participants for careers in the technology industry.
