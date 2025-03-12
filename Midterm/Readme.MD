@@ -3,7 +3,7 @@ EPL Player Management System
 
 Language: C#
 Platform: .NET
-License: MIT
+License: Apache-2.0 license
 
 Overview
 --------
@@ -114,7 +114,7 @@ Please ensure your code follows C# coding conventions and includes comments wher
 
 License
 -------
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
 
 Acknowledgments
 ---------------
